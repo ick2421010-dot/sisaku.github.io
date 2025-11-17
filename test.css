@@ -1,0 +1,16 @@
+h1 { color: #007bff;
+    text-align: center;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+h2 { color: #007bff;
+    text-align: center;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+p { color:black;
+    font-size: 18px;
+    line-height: 1.6;
+}    
